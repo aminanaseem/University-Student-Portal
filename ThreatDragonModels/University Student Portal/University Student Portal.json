@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "University Student Portal",
+    "owner": "Amina Naseem",
+    "description": "University portal for students and faculty to manage courses, grades, and assignments",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Annu",
+    "threatTop": 0
+  }
+}
